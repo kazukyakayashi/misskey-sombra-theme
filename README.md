@@ -41,3 +41,5 @@ Copy this code on misskey theme editor.
 ```
 
 # Screenshot
+
+![misskey theme](sombra.png)
