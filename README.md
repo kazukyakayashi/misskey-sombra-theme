@@ -1,6 +1,4 @@
-# misskey-sombra-theme
-
-# Misskey Nord Theme
+# Misskey Sombra Theme
 Theme for misskey.
 
 # Use
