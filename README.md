@@ -10,7 +10,7 @@ Copy this code on misskey theme editor.
 
 	name: 'Sombra',
 	author: 'KazukyAkayashi',
- 	desc: 'Theme based on Nord theme color',
+ 	desc: 'Hight contrast theme for Misskey',
 
 	base: 'dark',
 
